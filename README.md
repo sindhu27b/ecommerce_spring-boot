@@ -101,17 +101,6 @@ ecommerce_spring-boot/
 
 ---
 
-## 🔮 Future Enhancements
-
-* Add **user authentication** (JWT / Spring Security)
-* Add **frontend UI** (React / Angular / Thymeleaf)
-* Add **product search & filters**
-* Add **cart persistence**
-* Add **order history & status updates**
-* Add **unit & integration tests**
-
----
-
 ## 👨‍💻 Author
 
 **Sindhuja Bollikonda**
