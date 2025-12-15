@@ -1,5 +1,4 @@
 
-````md
 # E-Commerce Spring Boot
 
 A backend **E-Commerce application** built with **Spring Boot** that provides REST APIs for typical online shopping features such as products, categories, cart, orders, and user interactions.  
@@ -15,8 +14,6 @@ This project demonstrates Spring Boot fundamentals, layered architecture, and CR
 - Order submission and tracking  
 - RESTful APIs with JSON responses  
 - Backend developed using Spring Boot
-
-*(Add authentication, frontend, or more features here as your app evolves)*
 
 ---
 
@@ -90,18 +87,8 @@ ecommerce_spring-boot/
 
 4. The app will start on **[http://localhost:8080](http://localhost:8080)** by default.
 
----
 
-## 📁 Example API Endpoints
 
-*(Replace with your actual API paths if different)*
-
-```text
-GET    /api/products           → Get all products
-GET    /api/products/{id}      → Get a product by ID
-POST   /api/cart              → Add an item to cart
-POST   /api/orders            → Place an order
-```
 
 ---
 
